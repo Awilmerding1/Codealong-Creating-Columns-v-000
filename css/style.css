@@ -91,9 +91,9 @@ figcaption {
   background: #ccc;
 }
 
-/*.col-3 {*/
-/*  background: #ccc;*/
-/*}*/
+.col-3 {
+  background: #ccc;
+}
 
 .clearfix:after {
   content: ".";
